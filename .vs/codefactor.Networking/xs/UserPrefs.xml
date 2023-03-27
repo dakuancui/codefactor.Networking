@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{FB89A1D0-E1B5-4AF0-9777-E91C6705F8D8}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.codefactor.Networking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/Tcp/TcpSession.cs" relfile="codefactor.Networking/Tcp/TcpSession.cs" line="85" column="1" />
+      <Breakpoint enabled="false" file="/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/Tcp/TcpServer.cs" relfile="codefactor.Networking/Tcp/TcpServer.cs" line="204" column="1" />
+      <Breakpoint file="/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/Tcp/TcpSession.cs" relfile="codefactor.Networking/Tcp/TcpSession.cs" line="365" column="1" />
+      <Breakpoint file="/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/Tcp/TcpSession.cs" relfile="codefactor.Networking/Tcp/TcpSession.cs" line="380" column="1" />
+      <Breakpoint file="/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/Tcp/TcpSession.cs" relfile="codefactor.Networking/Tcp/TcpSession.cs" line="373" column="1" />
+      <Breakpoint file="/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/Program.cs" relfile="codefactor.Networking/Program.cs" line="39" column="1" />
+      <Breakpoint file="/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/Program.cs" relfile="codefactor.Networking/Program.cs" line="44" column="1" />
+      <Breakpoint file="/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/Program.cs" relfile="codefactor.Networking/Program.cs" line="52" column="1" />
+      <Breakpoint file="/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/Program.cs" relfile="codefactor.Networking/Program.cs" line="72" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="codefactor.Networking/ChatSession.cs">
+    <Files>
+      <File FileName="codefactor.Networking/Tcp/TcpSession.cs" Line="446" Column="22" />
+      <File FileName="codefactor.Networking/ChatSession.cs" Line="15" Column="16" />
+      <File FileName="codefactor.Networking/ChatServer.cs" Line="10" Column="16" />
+      <File FileName="codefactor.Networking/Program.cs" Line="52" Column="1" />
+      <File FileName="codefactor.Networking/Tcp/TcpServer.cs" Line="306" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="codefactor.Networking" expanded="True">
+            <Node name="codefactor.Networking" expanded="True">
+              <Node name="Application" expanded="True">
+                <Node name="Models" expanded="True" />
+              </Node>
+              <Node name="Tcp" expanded="True" />
+              <Node name="ChatSession.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

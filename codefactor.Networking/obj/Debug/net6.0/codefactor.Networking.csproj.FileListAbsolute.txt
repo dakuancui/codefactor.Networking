@@ -1,0 +1,15 @@
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/bin/Debug/net6.0/codefactor.Networking
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/bin/Debug/net6.0/codefactor.Networking.deps.json
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/bin/Debug/net6.0/codefactor.Networking.runtimeconfig.json
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/bin/Debug/net6.0/codefactor.Networking.dll
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/bin/Debug/net6.0/codefactor.Networking.pdb
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/obj/Debug/net6.0/codefactor.Networking.csproj.AssemblyReference.cache
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/obj/Debug/net6.0/codefactor.Networking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/obj/Debug/net6.0/codefactor.Networking.AssemblyInfoInputs.cache
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/obj/Debug/net6.0/codefactor.Networking.AssemblyInfo.cs
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/obj/Debug/net6.0/codefactor.Networking.csproj.CoreCompileInputs.cache
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/obj/Debug/net6.0/codefactor.Networking.dll
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/obj/Debug/net6.0/refint/codefactor.Networking.dll
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/obj/Debug/net6.0/codefactor.Networking.pdb
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/obj/Debug/net6.0/codefactor.Networking.genruntimeconfig.cache
+/Users/DakuanC/Dakuan.asb/spikes/codefactor.networking/codefactor.Networking/obj/Debug/net6.0/ref/codefactor.Networking.dll

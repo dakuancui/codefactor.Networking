@@ -1,0 +1,15 @@
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/bin/Debug/net6.0/TcpServer
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/bin/Debug/net6.0/TcpServer.deps.json
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/bin/Debug/net6.0/TcpServer.runtimeconfig.json
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/bin/Debug/net6.0/TcpServer.dll
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/bin/Debug/net6.0/TcpServer.pdb
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/obj/Debug/net6.0/TcpServer.csproj.AssemblyReference.cache
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/obj/Debug/net6.0/TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/obj/Debug/net6.0/TcpServer.AssemblyInfoInputs.cache
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/obj/Debug/net6.0/TcpServer.AssemblyInfo.cs
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/obj/Debug/net6.0/TcpServer.csproj.CoreCompileInputs.cache
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/obj/Debug/net6.0/TcpServer.dll
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/obj/Debug/net6.0/refint/TcpServer.dll
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/obj/Debug/net6.0/TcpServer.pdb
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/obj/Debug/net6.0/TcpServer.genruntimeconfig.cache
+/Users/DakuanC/Dakuan.asb/spikes/TcpServer/TcpServer/TcpServer/obj/Debug/net6.0/ref/TcpServer.dll
